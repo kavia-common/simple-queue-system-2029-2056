@@ -1,0 +1,4 @@
+{
+    "command": "dotnet build",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-queue-system-2029-2056/queue_backend"
+}
